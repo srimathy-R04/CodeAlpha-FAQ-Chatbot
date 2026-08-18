@@ -1,4 +1,4 @@
-#💬 FAQ Chatbot using NLP
+# 💬 FAQ Chatbot using NLP
 
 ## An AI-powered FAQ chatbot developed as part of the CodeAlpha Artificial Intelligence Internship.
 

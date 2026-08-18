@@ -88,15 +88,15 @@ The application will open in your browser at the local Streamlit address.
 
 # Chatbot Interface
 
-"FAQ Chatbot" (Chatbot Interface.png)
+"FAQ Chatbot" (./Chatbot%20Interface.png)
 
 # Password Reset Question
 
-"Password Reset" (Password Reset.png)
+"Password Reset" (./Password%20Reset.png)
 
 # Order Tracking Question
 
-"Order Tracking" (Order Tracking.png)
+"Order Tracking" (./Order%20Tracking.png)
 
 ## 🎯 Internship Task
 
@@ -104,11 +104,11 @@ Organization: CodeAlpha
 Task: Task 2 – Chatbot for FAQs
 Domain: Artificial Intelligence / Natural Language Processing
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
-# Srimathy R
+## Srimathy R
 
-# B.Tech Computer Science and Engineering Student
+## B.Tech Computer Science and Engineering Student
 
 ## 📌 Project Objective
 

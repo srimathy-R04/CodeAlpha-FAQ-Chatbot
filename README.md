@@ -86,18 +86,14 @@ The application will open in your browser at the local Streamlit address.
 
 ## 📸 Screenshots
 
-# Chatbot Interface
+### Chatbot Interface
+![Chatbot Interface](./Chatbot%20Interface.png)
 
-"FAQ Chatbot" (./Chatbot%20Interface.png)
+### Password Reset
+![Password Reset](./Password%20Reset.png)
 
-# Password Reset Question
-
-"Password Reset" (./Password%20Reset.png)
-
-# Order Tracking Question
-
-"Order Tracking" (./Order%20Tracking.png)
-
+### Order Tracking
+![Order Tracking](./Order%20Tracking.png)
 ## 🎯 Internship Task
 
 Organization: CodeAlpha

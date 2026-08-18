@@ -64,7 +64,7 @@ Return the Corresponding Answer
 
 1. Clone the repository
 
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/srimathy-R04/CodeAlpha-FAQ-Chatbot
 
 2. Open the project folder
 
@@ -84,36 +84,36 @@ streamlit run faq_chatbot_web.py
 
 The application will open in your browser at the local Streamlit address.
 
-📸 Screenshots
+##📸 Screenshots
 
-Chatbot Interface
+#Chatbot Interface
 
-"FAQ Chatbot" (screenshots/chatbot-home.png)
+"FAQ Chatbot" (Chatbot Interface.png)
 
-Password Reset Question
+#Password Reset Question
 
-"Password Reset" (screenshots/password-question.png)
+"Password Reset" (Password Reset.png)
 
-Order Tracking Question
+#Order Tracking Question
 
-"Order Tracking" (screenshots/order-tracking.png)
+"Order Tracking" (Order Tracking.png)
 
-🎯 Internship Task
+##🎯 Internship Task
 
 Organization: CodeAlpha
 Task: Task 2 – Chatbot for FAQs
 Domain: Artificial Intelligence / Natural Language Processing
 
-👩‍💻 Author
+##👩‍💻 Author
 
-Srimathy R
+#Srimathy R
 
-B.Tech Computer Science and Engineering Student
+#B.Tech Computer Science and Engineering Student
 
-📌 Project Objective
+##📌 Project Objective
 
 The objective of this project is to develop an FAQ chatbot capable of matching user questions with predefined frequently asked questions using NLP preprocessing, TF-IDF vectorization, and cosine similarity.
 
-📄 License
+##📄 License
 
 This project was developed for educational and internship purposes.

@@ -1,10 +1,10 @@
-##💬 FAQ Chatbot using NLP
+## 💬 FAQ Chatbot using NLP
 
-#An AI-powered FAQ chatbot developed as part of the CodeAlpha Artificial Intelligence Internship.
+# An AI-powered FAQ chatbot developed as part of the CodeAlpha Artificial Intelligence Internship.
 
-#The chatbot uses Natural Language Processing (NLP) techniques to understand user questions and find the most relevant answer from a predefined FAQ dataset.
+# The chatbot uses Natural Language Processing (NLP) techniques to understand user questions and find the most relevant answer from a predefined FAQ dataset.
 
-##🚀 Features
+## 🚀 Features
 
 - Interactive web-based chatbot using Streamlit
 - FAQ dataset containing multiple questions and answers
@@ -20,7 +20,7 @@
 - Optional match-confidence display
 - Chat history using Streamlit session state
 
-##🧠 Technologies Used
+## 🧠 Technologies Used
 
 - Python
 - Streamlit
@@ -29,9 +29,9 @@
 - NumPy
 - SciPy
 
-##🔄 How It Works
+## 🔄 How It Works
 
-#The chatbot follows this workflow:
+# The chatbot follows this workflow:
 
 User Question
 ↓
@@ -45,9 +45,9 @@ Find Most Similar FAQ
 ↓
 Return the Corresponding Answer
 
-##📚 FAQ Topics
+## 📚 FAQ Topics
 
-#The chatbot currently handles questions related to:
+# The chatbot currently handles questions related to:
 
 - Business hours
 - Password reset
@@ -60,7 +60,7 @@ Return the Corresponding Answer
 - Data security
 - Mobile application
 
-##🖥️ Running the Project Locally
+## 🖥️ Running the Project Locally
 
 1. Clone the repository
 
@@ -84,36 +84,36 @@ streamlit run faq_chatbot_web.py
 
 The application will open in your browser at the local Streamlit address.
 
-##📸 Screenshots
+## 📸 Screenshots
 
-#Chatbot Interface
+# Chatbot Interface
 
 "FAQ Chatbot" (Chatbot Interface.png)
 
-#Password Reset Question
+# Password Reset Question
 
 "Password Reset" (Password Reset.png)
 
-#Order Tracking Question
+# Order Tracking Question
 
 "Order Tracking" (Order Tracking.png)
 
-##🎯 Internship Task
+## 🎯 Internship Task
 
 Organization: CodeAlpha
 Task: Task 2 – Chatbot for FAQs
 Domain: Artificial Intelligence / Natural Language Processing
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
-#Srimathy R
+# Srimathy R
 
-#B.Tech Computer Science and Engineering Student
+# B.Tech Computer Science and Engineering Student
 
-##📌 Project Objective
+## 📌 Project Objective
 
 The objective of this project is to develop an FAQ chatbot capable of matching user questions with predefined frequently asked questions using NLP preprocessing, TF-IDF vectorization, and cosine similarity.
 
-##📄 License
+## 📄 License
 
 This project was developed for educational and internship purposes.

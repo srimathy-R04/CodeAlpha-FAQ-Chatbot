@@ -1,8 +1,8 @@
 # 💬 FAQ Chatbot using NLP
 
-## An AI-powered FAQ chatbot developed as part of the CodeAlpha Artificial Intelligence Internship.
+ An AI-powered FAQ chatbot developed as part of the CodeAlpha Artificial Intelligence Internship.
 
-## The chatbot uses Natural Language Processing (NLP) techniques to understand user questions and find the most relevant answer from a predefined FAQ dataset.
+ The chatbot uses Natural Language Processing (NLP) techniques to understand user questions and find the most relevant answer from a predefined FAQ dataset.
 
 # 🚀 Features
 
